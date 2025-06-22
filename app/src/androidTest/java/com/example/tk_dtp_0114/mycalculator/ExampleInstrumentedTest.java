@@ -22,5 +22,6 @@ public class ExampleInstrumentedTest {
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("com.example.tk_dtp_0114.mycalculator", appContext.getPackageName());
+        //editing this file for JIRA commits
     }
 }
